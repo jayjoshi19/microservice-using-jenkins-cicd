@@ -10,6 +10,8 @@
 	<groupId>com.miit</groupId>
 	<artifactId>VaccinationCenterService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	
 	<name>VaccinationCenterService</name>
 	<description>Microservice for VaccinationCenter</description>
 	<properties>
